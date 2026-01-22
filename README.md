@@ -1,1 +1,2 @@
- This is my First time Git
+This lab demonstrates Git history Tracking.
+This lab demonstrates Git history Tracking.
